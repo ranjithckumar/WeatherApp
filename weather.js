@@ -2,20 +2,11 @@ var information = [
   { cityname: "Pune", State: "Maharashtra", type: "Rainy ☔", temperature: 25 },
   { cityname: "Chennai", State: "Tamil Nadu", type: "Mostly cloudy ☁", temperature: 28},
   { cityname: "Kolhapur", State: "Maharashtra", type: "sunny ☀️", temperature: 32},
-  { cityname: "Bengaluru", State: "Karnataka", type: "Partly Cloudy ⛅", temperature: 21},
+  { cityname: "Bengalore", State: "Karnataka", type: "Partly Cloudy ⛅", temperature: 21},
   { cityname: "Lucknow", State: "Uttar Pradesh", type: "sunny ☀️", temperature: 34},
   { cityname: "Bhopal", State: "Madhya Pradesh", type: "Partly Cloudy ⛅", temperature: 22}
 ] 
-// function showInput(){
-// var e = document.getElementById("list").value;
-//  var x = information.find(v => v.cityname == e);
-// document.getElementById("city").innerHTML=x['cityname'];
-// document.getElementById("state").innerHTML = x['State'];
-// document.getElementById("weather").innerHTML = x['type'];
-// document.getElementById("temp").innerHTML = x['temperature'];
-// }
 
-// compare array value
 let e = '';
 let x = '';
 let data = {};
