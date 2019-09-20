@@ -4,6 +4,7 @@ class weatherdata{
         this.state=data.state;
         this.type=data.type;
         this.temperature=data.temperature;
+        this.state=state;
     }
     getCity(){
         return this.cityname;
