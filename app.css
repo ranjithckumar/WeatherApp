@@ -19,6 +19,10 @@ body{
     margin-top: 80px;
     text-align: left;
 }
+#list{
+  width:15em;
+  height:2em; 
+}
 span{
   color:black;
 }
@@ -39,7 +43,8 @@ span{
 }
 
 #temp{
-  font-size: 2em;
+  font-size: 4em;
+  margin-top: 4em;
 }
 .column1{
     float: left;

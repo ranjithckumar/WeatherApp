@@ -1,10 +1,10 @@
 var information = [
-  { cityname: "Pune", State: "Maharashtra", type: "Rainy ☔", temperature: 25 },
-  { cityname: "Chennai", State: "Tamil Nadu", type: "Mostly cloudy ☁", temperature: 28},
-  { cityname: "Kolhapur", State: "Maharashtra", type: "sunny ☀️", temperature: 32},
-  { cityname: "Bengalore", State: "Karnataka", type: "Partly Cloudy ⛅", temperature: 21},
-  { cityname: "Lucknow", State: "Uttar Pradesh", type: "sunny ☀️", temperature: 34},
-  { cityname: "Bhopal", State: "Madhya Pradesh", type: "Partly Cloudy ⛅", temperature: 22}
+  { cityname: "Pune", state: "Maharashtra", type: "Rainy ☔", temperature: 25 },
+  { cityname: "Chennai", state: "Tamil Nadu", type: "Mostly cloudy ☁", temperature: 28},
+  { cityname: "Kolhapur", state: "Maharashtra", type: "sunny ☀️", temperature: 32},
+  { cityname: "Bengalore", state: "Karnataka", type: "Partly Cloudy ⛅", temperature: 21},
+  { cityname: "Lucknow", state: "Uttar Pradesh", type: "sunny ☀️", temperature: 34},
+  { cityname: "Bhopal", state: "Madhya Pradesh", type: "Partly Cloudy ⛅", temperature: 22}
 ] 
 
 let e = '';
